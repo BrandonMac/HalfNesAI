@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=frame\ bgcolor\ dotcrawl
+comment0.target=void\ setFrame(int[],\ int[],\ boolean)
+comment1.params=message
+comment1.target=void\ messageBox(java.lang.String)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ render()
+numComments=4

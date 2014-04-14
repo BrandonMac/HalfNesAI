@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=Oscilloscope(AudioOutInterface)
+comment1.params=
+comment1.target=Oscilloscope()
+comment2.params=sample
+comment2.target=void\ outputSample(int)
+comment3.params=waitIfBufferFull
+comment3.target=void\ flushFrame(boolean)
+comment4.params=
+comment4.target=void\ pause()
+comment5.params=
+comment5.target=void\ resume()
+comment6.params=
+comment6.target=void\ destroy()
+comment7.params=samples
+comment7.target=boolean\ bufferHasLessThan(int)
+numComments=8

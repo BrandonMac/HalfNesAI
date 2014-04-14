@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=cpuram
+comment0.target=ActionReplay(CPURAM)
+comment0.text=\r\n\ Creates\ a\ new\ Pro\ Action\ Replay\ device\ which\ will\ act\ on\ the\ given\r\n\ memory.\r\n\r\n\ @param\ cpuram\ -\ memory\r\n
+comment1.params=
+comment1.target=java.util.HashMap\ getPatches()
+comment1.text=\r\n\ Get\ the\ list\ of\ patches\ currently\ applied.\r\n\r\n\ @return\r\n
+comment2.params=patch
+comment2.target=void\ addMemoryPatch(Patch)
+comment2.text=\r\n\ Add\ a\ memory\ patch.\ The\ patch\ is\ permanent\ (the\ value\ is\ constantly\r\n\ written\ into\ memory\ until\ a\ new\ game\ is\ loaded).\r\n
+comment3.params=
+comment3.target=void\ applyPatches()
+comment3.text=\r\n\ Patches\ the\ memory\ with\ Pro\ Action\ Replay\ codes.\r\n
+comment4.params=
+comment4.target=void\ clear()
+comment4.text=\r\n\ Remove\ all\ the\ patches.\r\n
+comment5.params=value
+comment5.target=java.util.List\ newSearchInMemory(byte)
+comment5.text=\r\n\ Find\ where\ in\ RAM\ can\ be\ found\ the\ given\ value.\ This\ method\ begins\ a\ new\r\n\ search.\r\n\r\n\ @param\ value\ -\ value\ to\ be\ found.\r\n\ @return\ the\ list\ of\ addresses\ where\ the\ value\ were\ found.\r\n
+comment6.params=
+comment6.target=java.util.List\ getFoundAddresses()
+comment6.text=\r\n\ Gets\ the\ list\ memory\ addresses\ of\ the\ current\ search.\r\n\r\n\ @return\r\n
+comment7.params=value
+comment7.target=java.util.List\ continueSearch(byte)
+comment7.text=\r\n\ Find\ where\ at\ the\ previously\ found\ addresses\ can\ be\ found\ the\ given\r\n\ value.\ This\ method\ continue\ a\ previously\ started\ search.\r\n\r\n\ @param\ value\ -\ value\ to\ be\ found.\r\n\ @return\ the\ list\ of\ addresses\ where\ the\ value\ were\ found.\r\n
+numComments=8

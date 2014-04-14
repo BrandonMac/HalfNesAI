@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nespixels\ bgcolors\ dotcrawl
+comment0.target=java.awt.image.BufferedImage\ render(int[],\ int[],\ boolean)
+comment1.params=bitmap\ offset\ width\ height
+comment1.target=java.awt.image.BufferedImage\ getImageFromArray(int[],\ int,\ int,\ int)
+numComments=2

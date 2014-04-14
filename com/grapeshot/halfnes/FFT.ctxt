@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=FFT(int)
+comment1.params=x\ y
+comment1.target=void\ fft(double[],\ double[])
+numComments=2

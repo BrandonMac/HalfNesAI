@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CombFiltered()
+comment1.params=
+comment1.target=int[][]\ genColorCorrectTbl()
+comment2.params=
+comment2.target=double[][]\ genlumas()
+comment3.params=nescolors\ pxloffset\ bgcolor\ dotcrawl
+comment3.target=double[]\ ntsc_encode(int[],\ int,\ int,\ boolean)
+comment4.params=ntsc\ frame\ frameoff
+comment4.target=void\ ntsc_decode(double[],\ int[],\ int)
+comment5.params=a
+comment5.target=int\ clamp(int)
+comment6.params=nespixels\ bgcolor\ dotcrawl
+comment6.target=java.awt.image.BufferedImage\ render(int[],\ int[],\ boolean)
+comment7.params=in\ out\ rc
+comment7.target=void\ cap_filter(double[],\ double[],\ double)
+numComments=8

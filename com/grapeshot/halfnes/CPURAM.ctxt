@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=mappy
+comment0.target=CPURAM(mappers.Mapper)
+comment1.params=addr
+comment1.target=int\ read(int)
+comment2.params=addr
+comment2.target=int\ _read(int)
+comment3.params=addr\ data
+comment3.target=void\ write(int,\ int)
+comment4.params=b
+comment4.target=void\ setPrgRAMEnable(boolean)
+comment5.params=apu
+comment5.target=void\ setAPU(APU)
+comment6.params=ppu
+comment6.target=void\ setPPU(PPU)
+comment7.params=p
+comment7.target=void\ setPatches(java.util.HashMap)
+comment8.params=
+comment8.target=byte[]\ getRamBytes()
+numComments=9

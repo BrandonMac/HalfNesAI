@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=controllernum
+comment0.target=DummyController(int)
+comment1.params=
+comment1.target=void\ strobe()
+comment2.params=
+comment2.target=int\ getbyte()
+comment3.params=state
+comment3.target=void\ output(boolean)
+numComments=4

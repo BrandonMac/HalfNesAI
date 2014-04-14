@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=ROMLoader(java.lang.String)
+comment1.params=len
+comment1.target=void\ ReadHeader(int)
+comment2.params=
+comment2.target=void\ parseHeader()
+comment3.params=size\ offset
+comment3.target=int[]\ load(int,\ int)
+comment4.params=
+comment4.target=int\ romlen()
+numComments=5

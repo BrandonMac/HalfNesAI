@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AltNTSCRenderer()
+comment1.params=nespixels\ bgcolors\ dotcrawl
+comment1.target=java.awt.image.BufferedImage\ render(int[],\ int[],\ boolean)
+comment2.params=pixel
+comment2.target=void\ ntsc_render(int)
+comment3.params=color\ phase
+comment3.target=boolean\ inColorPhase(int,\ int)
+comment4.params=phase
+comment4.target=void\ ntsc_decode(double)
+comment5.params=y\ i\ q
+comment5.target=void\ render_pixel(double,\ double,\ double)
+comment6.params=a
+comment6.target=int\ clamp(double)
+comment7.params=luma
+comment7.target=double\ gammafix(double)
+numComments=8

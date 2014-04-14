@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sample
+comment0.target=void\ outputSample(int)
+comment1.params=waitIfBufferFull
+comment1.target=void\ flushFrame(boolean)
+comment2.params=
+comment2.target=void\ pause()
+comment3.params=
+comment3.target=void\ resume()
+comment4.params=
+comment4.target=void\ destroy()
+comment5.params=samples
+comment5.target=boolean\ bufferHasLessThan(int)
+numComments=6

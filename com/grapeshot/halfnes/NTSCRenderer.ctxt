@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NTSCRenderer()
+comment1.params=
+comment1.target=int[]\ genColorCorrectTbl()
+comment2.params=
+comment2.target=float[][][]\ genlumas()
+comment3.params=nescolors\ pxloffset\ bgcolor\ dotcrawl
+comment3.target=float[]\ ntsc_encode(int[],\ int,\ int,\ boolean)
+comment4.params=ntsc\ frame\ frameoff
+comment4.target=void\ ntsc_decode(float[],\ int[],\ int)
+comment5.params=r\ g\ b
+comment5.target=int\ compose_col(int,\ int,\ int)
+comment6.params=a
+comment6.target=int\ clamp(int)
+numComments=7

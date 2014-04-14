@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int[][]\ GetNESColors()
+comment1.params=col
+comment1.target=int\ r(int)
+comment2.params=col
+comment2.target=int\ g(int)
+comment3.params=col
+comment3.target=int\ b(int)
+comment4.params=r\ g\ b
+comment4.target=int\ compose_col(double,\ double,\ double)
+numComments=5

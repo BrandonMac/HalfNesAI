@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nes
+comment0.target=FrameLimiterImpl(NES)
+comment1.params=
+comment1.target=void\ sleep()
+comment2.params=
+comment2.target=void\ sleepFixed()
+comment3.params=
+comment3.target=void\ forceHighResolutionTimer()
+comment4.params=
+comment4.target=void\ run()
+numComments=5

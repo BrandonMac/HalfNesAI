@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ strobe()
+comment1.params=state
+comment1.target=void\ output(boolean)
+comment2.params=
+comment2.target=int\ getbyte()
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=i\ length\ echo_gain\ lp_coef\ hp_coef
+comment0.target=Reverberator(AudioOutInterface,\ int,\ double,\ double,\ double)
+comment1.params=sample
+comment1.target=int\ lowpass_filter(int)
+comment2.params=sample
+comment2.target=int\ highpass_filter(int)
+comment3.params=sample
+comment3.target=void\ outputSample(int)
+comment4.params=waitIfBufferFull
+comment4.target=void\ flushFrame(boolean)
+comment5.params=
+comment5.target=void\ pause()
+comment6.params=
+comment6.target=void\ resume()
+comment7.params=
+comment7.target=void\ destroy()
+comment8.params=samples
+comment8.target=boolean\ bufferHasLessThan(int)
+numComments=9
